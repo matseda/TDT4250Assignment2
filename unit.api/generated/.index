@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<repository xmlns="http://www.osgi.org/xmlns/repository/v1.0.0" name="unit.api" increment="1569597848939">
+  <resource>
+    <capability namespace="osgi.identity">
+      <attribute name="osgi.identity" value="unit.api"/>
+      <attribute name="type" value="osgi.bundle"/>
+      <attribute name="version" value="1.0.0.201909271524" type="Version"/>
+    </capability>
+    <capability namespace="osgi.wiring.bundle">
+      <attribute name="bundle-version" value="1.0.0.201909271524" type="Version"/>
+      <attribute name="osgi.wiring.bundle" value="unit.api"/>
+    </capability>
+    <capability namespace="osgi.wiring.host">
+      <attribute name="bundle-version" value="1.0.0.201909271524" type="Version"/>
+      <attribute name="osgi.wiring.host" value="unit.api"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="version" value="1.0.0" type="Version"/>
+      <attribute name="osgi.wiring.package" value="unit.api"/>
+    </capability>
+    <capability namespace="osgi.content">
+      <attribute name="size" value="6156" type="Long"/>
+      <attribute name="url" value="generated/unit.api.jar"/>
+      <attribute name="mime" value="application/vnd.osgi.bundle"/>
+      <attribute name="osgi.content" value="AEEF0BA633B55BCACB49B3B041177DC749DEF85CCD52378E1D937454245E28A7"/>
+    </capability>
+    <capability namespace="bndtools.workspace">
+      <attribute name="bndtools.workspace" value="file:/home/mats/eclipse-workspace/Assignment2"/>
+      <attribute name="project.path" value="/unit.api"/>
+    </capability>
+    <requirement namespace="osgi.ee">
+      <directive name="filter" value="(&amp;(osgi.ee=JavaSE)(version=1.8))"/>
+    </requirement>
+  </resource>
+</repository>

@@ -1,0 +1,10 @@
+unit.mToKm;version=snapshot;resolution=file:/home/mats/eclipse-workspace/Assignment2/unit.mToKm/generated/unit.mToKm.jar
+org.apache.felix.scr;version='[2.1.10,2.1.11)';resolution=file:/home/mats/.m2/repository/org/apache/felix/org.apache.felix.scr/2.1.10/org.apache.felix.scr-2.1.10.jar
+org.apache.felix.gogo.runtime;version='[1.0.10,1.0.11)';resolution=file:/home/mats/.m2/repository/org/apache/felix/org.apache.felix.gogo.runtime/1.0.10/org.apache.felix.gogo.runtime-1.0.10.jar
+org.apache.felix.http.servlet-api;version='[1.1.2,1.1.3)';resolution=file:/home/mats/.m2/repository/org/apache/felix/org.apache.felix.http.servlet-api/1.1.2/org.apache.felix.http.servlet-api-1.1.2.jar
+org.apache.felix.gogo.command;version='[1.0.2,1.0.3)';resolution=file:/home/mats/.m2/repository/org/apache/felix/org.apache.felix.gogo.command/1.0.2/org.apache.felix.gogo.command-1.0.2.jar
+unit.util;version=snapshot;resolution=file:/home/mats/eclipse-workspace/Assignment2/unit.util/generated/unit.util.jar
+unit.api;version=snapshot;resolution=file:/home/mats/eclipse-workspace/Assignment2/unit.api/generated/unit.api.jar
+org.apache.felix.http.jetty;version='[4.0.6,4.0.7)';resolution=file:/home/mats/.m2/repository/org/apache/felix/org.apache.felix.http.jetty/4.0.6/org.apache.felix.http.jetty-4.0.6.jar
+org.apache.felix.gogo.shell;version='[1.0.0,1.0.1)';resolution=file:/home/mats/.m2/repository/org/apache/felix/org.apache.felix.gogo.shell/1.0.0/org.apache.felix.gogo.shell-1.0.0.jar
+unit.servlet;version=snapshot;resolution=file:/home/mats/eclipse-workspace/Assignment2/unit.servlet/generated/unit.servlet.jar
