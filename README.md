@@ -14,3 +14,8 @@
 * unit.gogo
 * unit.mToKm: The meter to kilometer conversion
 * unit.hoursToMinutes: the hours to minutes conversion
+
+### GoGo commands
+* list: lists all conversion by name
+* add {name} {formula}: adds a conversion
+* remove {name}: removes a conversion
